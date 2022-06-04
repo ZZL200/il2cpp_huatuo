@@ -1,4 +1,4 @@
-# libil2cpp_huatuo
+# il2cpp_huatuo
 il2cpp_huatuo 适用于unity2020.2.6版本，已更新至支持AOT泛型
 
 原始il2cpp是AOT运行时，不支持动态注册dll元数据。huatuo轻微改造了metadata管理模块，插入了一些hook代码，支持动态加载dll元数据。
